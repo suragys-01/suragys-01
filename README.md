@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'monospace', cursive; font-size: 48px;">Hi, I am Surag Y S</h1>
+<h1 align="center" style="font-family: 'monospace', cursive; font-size: 48px;">Hi, I'm Surag</h1>
 <p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A PASSIONATE SOFTWARE ENGINEER</p>
 
 # 💫 About Me:
