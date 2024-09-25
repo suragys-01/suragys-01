@@ -31,7 +31,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shilpa4103&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suragys-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=suragys-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
